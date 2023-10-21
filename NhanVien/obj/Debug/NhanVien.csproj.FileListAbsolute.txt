@@ -1,0 +1,13 @@
+D:\Hoc\IT\HOCKY_5\CONGNGHEPHANMEN\NhanVien\NhanVien\bin\Debug\NhanVien.exe.config
+D:\Hoc\IT\HOCKY_5\CONGNGHEPHANMEN\NhanVien\NhanVien\bin\Debug\NhanVien.exe
+D:\Hoc\IT\HOCKY_5\CONGNGHEPHANMEN\NhanVien\NhanVien\bin\Debug\NhanVien.pdb
+D:\Hoc\IT\HOCKY_5\CONGNGHEPHANMEN\NhanVien\NhanVien\obj\Debug\NhanVien.csproj.AssemblyReference.cache
+D:\Hoc\IT\HOCKY_5\CONGNGHEPHANMEN\NhanVien\NhanVien\obj\Debug\NhanVien.Form1.resources
+D:\Hoc\IT\HOCKY_5\CONGNGHEPHANMEN\NhanVien\NhanVien\obj\Debug\NhanVien.Properties.Resources.resources
+D:\Hoc\IT\HOCKY_5\CONGNGHEPHANMEN\NhanVien\NhanVien\obj\Debug\NhanVien.csproj.GenerateResource.cache
+D:\Hoc\IT\HOCKY_5\CONGNGHEPHANMEN\NhanVien\NhanVien\obj\Debug\NhanVien.csproj.CoreCompileInputs.cache
+D:\Hoc\IT\HOCKY_5\CONGNGHEPHANMEN\NhanVien\NhanVien\obj\Debug\NhanVien.exe
+D:\Hoc\IT\HOCKY_5\CONGNGHEPHANMEN\NhanVien\NhanVien\obj\Debug\NhanVien.pdb
+D:\Hoc\IT\HOCKY_5\CONGNGHEPHANMEN\NhanVien\NhanVien\obj\Debug\NhanVien.main.resources
+D:\Hoc\IT\HOCKY_5\CONGNGHEPHANMEN\NhanVien\NhanVien\obj\Debug\NhanVien.thongtinkhachhang.resources
+D:\Hoc\IT\HOCKY_5\CONGNGHEPHANMEN\NhanVien\NhanVien\obj\Debug\NhanVien.taikhoankhachhang.resources
